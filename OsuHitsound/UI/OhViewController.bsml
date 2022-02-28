@@ -1,0 +1,5 @@
+﻿<vertical child-control-height='false'>
+	<horizontal>
+		<dropdown-list-setting text='Hitsound' options='hitsound-options' value='selected-hitsound' apply-on-change='true'/>
+	</horizontal>
+</vertical>
